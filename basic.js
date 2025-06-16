@@ -3,5 +3,5 @@ while (count <= 10) {
     total += count ;
     count += 1;
 }
-console.log(total);
+console.log(total);K
 // -> 55
